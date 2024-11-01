@@ -1,0 +1,8 @@
+/solution.js
+echo "# 4.1-EJS-Tags" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AhmedIssawy/4.1-EJS-Tags.git
+git push -u origin main
